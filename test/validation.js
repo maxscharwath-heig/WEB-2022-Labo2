@@ -1,9 +1,9 @@
 /* eslint-disable no-eval */
 /* eslint-disable no-undef */
 
+import { assert } from 'chai';
 import * as validation from '../src/validation.js';
 import { ValidationError, InvalidArgumentError } from '../src/errors.js';
-import { assert } from 'chai'; 
 
 const wrongTypeArguments = [42, Infinity, true, false, null, undefined, {}, []];
 

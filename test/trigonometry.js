@@ -1,8 +1,8 @@
 /* eslint-disable no-eval */
 /* eslint-disable no-undef */
 
+import { assert } from 'chai';
 import * as util from '../src/trigonometry.js';
-import { assert } from 'chai'; 
 
 describe('util.js', () => {
   describe('random(from, to)', () => {
