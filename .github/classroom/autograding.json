@@ -1,0 +1,134 @@
+{
+  "tests": [
+    {
+      "name": "test random",
+      "setup": "npm install",
+      "run": "npm run test-random",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test randomColor",
+      "setup": "npm install",
+      "run": "npm run test-randomColor",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test toRadians",
+      "setup": "npm install",
+      "run": "npm run test-toRadians",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test toDegrees",
+      "setup": "npm install",
+      "run": "npm run test-toDegrees",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test adjacent",
+      "setup": "npm install",
+      "run": "npm run test-adjacent",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test opposite",
+      "setup": "npm install",
+      "run": "npm run test-opposite",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test position",
+      "setup": "npm install",
+      "run": "npm run test-position",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test collision",
+      "setup": "npm install",
+      "run": "npm run test-collision",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test name",
+      "setup": "npm install",
+      "run": "npm run test-name",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test password",
+      "setup": "npm install",
+      "run": "npm run test-password",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test phone",
+      "setup": "npm install",
+      "run": "npm run test-phone",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test date",
+      "setup": "npm install",
+      "run": "npm run test-date",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test iban",
+      "setup": "npm install",
+      "run": "npm run test-iban",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
